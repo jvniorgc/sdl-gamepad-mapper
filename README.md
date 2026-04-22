@@ -23,7 +23,7 @@ O mapeamento é injetado como variável de ambiente no sistema. Jogos que usam S
 ## Instalação
 
 ```bash
-git clone <url-do-repo>
+git clone https://github.com/jvniorgc/sdl-gamepad-mapper.git
 cd fake-gamepad
 swift build
 ```
