@@ -1,0 +1,1 @@
+03000000c82d00001d30000001000000,8BitDo Ultimate 2C Wired Controller,a:b1,b:b0,x:b3,y:b4,leftshoulder:b6,rightshoulder:b7,back:b10,start:b11,guide:b12,leftstick:b13,rightstick:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,dpup:h0.1,dpright:h0.2,dpdown:h0.4,dpleft:h0.8,platform:Mac OS X
